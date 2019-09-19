@@ -1,0 +1,119 @@
+<html>
+<head>
+</head>
+<body>
+<audio controls>
+  <source src="audio.mpeg" type="audio/mpeg">
+</audio>
+
+<h1>CMR UNIVERSITY</h1>
+<img src="cmru.jpeg" alt="cmr university" width="300" height="300"> 
+<p><h2>
+<marquee behavior="alternate" direction="right" scrollamount="10" scrolldelay="0">ADMISSIONS OPEN !!</marquee>
+</h2>
+<h3>
+ADMISSIONS FOR ACADEMIC YEAR 2020-2021 </h3></p>
+<h2>COURSES OFFERED</h2>
+ <ul>
+  <li>B.Tech</li>
+  <li>MBA</li>
+  <li>B.Sc</li>
+<li>BBA</li>
+<li>B.Arch</li>	
+</ul> 
+<video width="400" height="300" controls>
+  <source src="video.mp4" type="video/mp4"></video></br>
+<a href="https://www.w3schools.com">Click here for more information</a>
+</body>
+</html>
+
+
+
+<html>
+<frameset cols="25%,*,25%">
+  <frame src="wd1.html">
+<frameset rows="50%,50%">
+  <frame src="wd2.html">
+  <frame src="tab.html">
+
+</frameset> 
+<body>
+<audio controls>
+  <source src="audio.mp3" type="audio/mpeg">
+</audio><br>
+<a href="https://swayam.gov.in/explorer" target="iframe_a">swayam.com</a></p><br>
+ <iframe src="demo_iframe.htm" height="200" width="300"></iframe><br>
+</body>
+ </html>
+
+<html>
+<body>
+<img src="dog.jpg" alt="dogs">
+</body>
+</html>	
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<title>PRATHYUSHA</title>
+</head>
+<body>
+<h1>CHANDRAYAAN 2</h1>
+<h3>DEPARTMENT OF SPACE,INDIAN SPACE RESEARCH ORGANISATION</h3>
+<h5>SECOND EARTH BOUND MANEUVER</h5>
+<h7>LAUNCH OF SATELLITE</h7>
+<p>BY REGISTERING yourself ,you will be able to watch the mission<br/>ISRO HAS ESTABLISHED A LAUNCH VIEW</p>
+<a href="https://www.w3schools.com"><img src="whale.jpg" alt="WHALE" width="100" height="100"></a>
+<ul>
+<li>dafiya</li>
+<li>navya shree</li>
+<li>yashwitha</li>
+</ul>
+<ol>
+<li>prathyusha</li>
+<li>yamini</li>
+<li>asritha</li>
+<li>chaturya</li>
+</body>
+</html>
+
+FORM TAG
+<html>
+<head>
+<h1>form tags</h1>
+</head>
+<body> 
+<form action="/action_page.php" method="post">
+username: <input type="text" name="name"><br>
+passward: <input type="password" name="enter password"><br>
+<input type="submit" value="submit"><br>
+<form action="/action_page.php" method="post">
+birthday :<input type="date" name="DOB"><br>
+E mail: <input type="email" name="mail id"><br>
+  <input type="radio" name="gender" value="male" checked> <br>
+  <input type="radio" name="gender" value="female"> <br>
+  <input type="radio" name="gender" value="other"><br>  
+<input type="radio" name="pg" value="other"> </br> 
+<input type="submit" value="login"><br> 
+</form> 
+</body>
+</html>
+
+<html>
+<body>
+<p>
+<figure>
+<img src="cat.jpeg" alt="CAT" width="224" height="234">
+<figcaption>ALL THE BEST</figcaption>
+</figure>
+<adress>
+CMR UNISERITY,bagalur ,bangalore-562149</br>
+</adress>
+<font size=10% font color="blue" face="pursia">CMR UNIVERSITY</font><br/>
+Y<sub>2</sub><sup>4</sup>+T<sub>3</sub><sup>2</sup><br/>
+</br>y</a>
+</body>
+</html>
