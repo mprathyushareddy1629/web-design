@@ -1,0 +1,61 @@
+<html>
+<head>
+<style>
+h1{
+text-shadow: 3px 2px lightblue;
+font-style: italic;
+}
+h2{
+background-color:;
+border:2px;
+border-color:red;
+border-style: solid;
+width:220px;
+color:blue;
+font-style: italic;
+}
+p{
+background-image:url("/home/it2016b215/Desktop/india.jpg");
+color:blue;
+background-size: 400px 100px;
+background-repeat:no-repeat;
+width:250px;
+height:250px;
+text-decoration:overline;
+}
+p1{
+line-height:2;
+letter-spacing:0.5;
+direction: rtl;
+}
+ul.a{
+ list-style-type:circle;
+}
+ul.b{
+list-style-type:upper-roman;
+}
+ul.c{
+list-style-type:square;}
+a{
+color:hotpink;
+}
+</style>
+</head>
+<body>
+<h1 align="center" style="background-color:orange;"> INDIA </h1>
+<center><H2 align="center">CHANDRAYAAN 2 </h2></center>
+<h1 align="center" style="background-color:green;">mission to moon </h2>
+<p align="center" >The National Flag of India is a horizontal rectangular tricolour of India saffron, white and India green</p>
+<ul class="a">
+<li>tea</li>
+<li>coffee</li></ul>
+<ul clASS="B">
+<li>cococola</li>
+<li>pepsi</li></ul>
+<ul class="c">
+<li>fizz</li>
+<li>sprite</li></ul></br>
+<a href="default.asp" target="google.com">www.google.com</a></br>
+<p1>Search the world's information, including webpages, images, videos and more.</p1>
+<body>
+</html>
