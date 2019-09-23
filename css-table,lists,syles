@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+ul.a {
+  list-style-position: outside;
+}
+
+ul.b {
+  list-style-type:lower-alpha;
+}
+ul.c{
+ list-style-type:lower-roman;
+}
+table{
+background-color:yellow;
+color:blue;
+}
+table, td, th {
+  border: 0.5px solid black;
+}
+</style>
+</head>
+<body>
+<ul class="a">
+<li>apple</li>
+<li>orange</li>
+<li>mango</li>
+</ul>
+<ul class="b">
+<li>pine apple</li>
+<ul class="c">
+<li>grapes</li>
+<li>banana</li>
+</ul>
+<table>
+ <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+  <tr>
+    <td>Prathu</td>
+    <td>reddy</td>
+  </tr>
+  <tr>
+    <td>meee</td>
+    <td>youuu</td>
+  </tr>
+</table>
+</body>
+</html>
